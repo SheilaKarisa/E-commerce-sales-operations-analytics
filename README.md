@@ -13,7 +13,7 @@ This project delivers a production-grade relational database and business intell
 ---
 
 ## Interactive Dashboard Interface
-![Executive Dashboard Interface](./dashboard/dashboard_preview.png)
+![Executive Dashboard Interface](./dashboard/dashboard_preview.PNG)
 
 *Features a responsive unified design utilizing rounded-shape containers, regional cross-filtering tracking geo-localization deviations, and a custom product category hierarchy slicer tracking performance by year.*
 
